@@ -6,6 +6,11 @@
 4. Для проверки корректности настройки, разорвите один из кабелей между одним из маршрутизаторов и Switch0 и запустите ping между PC0 и Server0.
 5. На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.
 
-Решение
-схема [hsrp_advanced_HW_10_1.pkt](images/hsrp_advanced_HW_10_1.pkt)
+### Решение
+
+схема
+[hsrp_advanced_HW_10_1.pkt](images/hsrp_advanced_HW_10_1.pkt)
+
+Настройка роутеров и проверка пинга
+
  ![alt text](https://github.com/Anton-Shcherbatykh/FOPS-32_6/blob/main/images/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.jpg)
