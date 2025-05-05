@@ -1,2 +1,1 @@
-# FOPS-32_6
-Disaster recovery и Keepalived
+# Disaster recovery и Keepalived `Щербатых А.Е.`
